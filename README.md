@@ -6,11 +6,11 @@ Pygame doc: https://www.pygame.org/docs/ref/rect.html
 
 
 To run the game, use the following command:
-$ ./SpaceWarShoot
+    $ ./SpaceWarShoot
 Alternatively, you can run it manually with Python:
-$ python3 main.py
+    $ python3 main.py
 
 To install Pygame, run the following command in your terminal or command prompt:
-$ pip install -r requirements.txt
+  $ pip install -r requirements.txt
 OR
 $ pip install pygame
